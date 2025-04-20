@@ -5,7 +5,7 @@
 This Power BI dashboard was built for **Plant Co.**, designed to analyze and visualize performance metrics such as sales, profit, and quantity across time and categories. The dashboard supports YTD vs PYTD comparisons, helping stakeholders make informed decisions.
 
 ## 📸 Dashboard Preview
-![PlantCo Dashboard](PlantCo Dashboard.png.png)
+![PlantCo Dashboard](PlantCo Dashboard.png)
 
 ## 🔧 Data Preparation & Modeling
 - Cleaned and renamed datasets in Power Query.
