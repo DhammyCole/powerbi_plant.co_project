@@ -3,8 +3,9 @@
 
 ## 📝 Project Overview
 This project was developed as a real-world performance tracking solution for Plant Co., a company looking to gain deeper insight into its operational and sales performance across multiple regions and product lines. The primary objective was to design a comprehensive and interactive dashboard that would support business leaders in understanding both high-level trends and granular performance metrics.
+
 The dashboard focused on Year-To-Date (YTD) and Prior Year-To-Date (PYTD) comparisons, enabling quick performance benchmarking and historical analysis. By leveraging Power BI’s data modeling and visualization capabilities, I transformed raw sales data into a dynamic reporting tool that tracks KPIs like Sales, Quantity Sold, Cost of Goods Sold (COGS), and Gross Profit (GP%).
-The dashboard also includes features like drill-through analysis, dynamic titles, and metric switchers — allowing users to explore data across different outlets, timeframes, and product segments. Through this project, I aimed to bridge the gap between data and decision-making, delivering a solution that is both visually intuitive and analytically powerful.
+The dashboard also includes features like drill-through analysis, dynamic titles, and metric switchers allowing users to explore data across different outlets, timeframes, and product segments. Through this project, I aimed to bridge the gap between data and decision-making, delivering a solution that is both visually intuitive and analytically powerful.
 
 ## 📸 Dashboard Preview
 ![PlantCo Dashboard](PlantCo_Dashboard.png)
@@ -41,3 +42,10 @@ The dashboard also includes features like drill-through analysis, dynamic titles
 
 ## ✅ Outcome
 Delivered a business-ready dashboard that improved visibility and insight for Plant Co., while strengthening my Power BI, DAX, and data modeling skills.
+
+This project is part of my portfolio, showcasing the Power Bi skills essential for Data Analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/dhammycole/)
+- **Twitter**: [Connect with me on X and let's grow together](https://x.com/Dhammy_Cole)
+- **Gmail**: johndammy2022@gmail.com
+
+Thank you for your interest in this project!
