@@ -10,7 +10,7 @@ The dashboard also includes features like drill-through analysis, dynamic titles
 
 ## 📸 Dashboard Preview
 ![PlantCo Dashboard](PlantCo Dashboard.png)
-![PlantCo Dashboard](PlantCo_./dashboard.png)
+![PlantCo Dashboard](PlantCo_Dashboard.png)
 ## 🔧 Data Preparation & Modeling
 - Cleaned and renamed datasets in Power Query.
 - Removed duplicate records.
