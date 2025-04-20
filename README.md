@@ -3,14 +3,13 @@
 
 ## 📝 Project Overview
 This project was developed as a real-world performance tracking solution for Plant Co., a company looking to gain deeper insight into its operational and sales performance across multiple regions and product lines. The primary objective was to design a comprehensive and interactive dashboard that would support business leaders in understanding both high-level trends and granular performance metrics.
-
 The dashboard focused on Year-To-Date (YTD) and Prior Year-To-Date (PYTD) comparisons, enabling quick performance benchmarking and historical analysis. By leveraging Power BI’s data modeling and visualization capabilities, I transformed raw sales data into a dynamic reporting tool that tracks KPIs like Sales, Quantity Sold, Cost of Goods Sold (COGS), and Gross Profit (GP%).
-
 The dashboard also includes features like drill-through analysis, dynamic titles, and metric switchers — allowing users to explore data across different outlets, timeframes, and product segments. Through this project, I aimed to bridge the gap between data and decision-making, delivering a solution that is both visually intuitive and analytically powerful.
 
 ## 📸 Dashboard Preview
-![PlantCo Dashboard](PlantCo Dashboard.png)
 ![PlantCo Dashboard](PlantCo_Dashboard.png)
+
+
 ## 🔧 Data Preparation & Modeling
 - Cleaned and renamed datasets in Power Query.
 - Removed duplicate records.
